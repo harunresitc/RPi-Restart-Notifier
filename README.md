@@ -15,6 +15,9 @@ This line:
 
 @reboot sleep 60 && python /where/is/files/RUN.py >> /where/is/files/LOGS.txt 2>&1 &
 
+File permissions:
+py files: executable
+txt files: writable
 
 Raspberry yeniden başladığında Rapberry' nin dış IP' sini size bildirir.
 
@@ -27,3 +30,5 @@ Nasıl Kullanılır?
 3- Zamanlanmış görevlere "sudo crontab -e" komutu ile aşağıdaki satırı ekleyin:
 
 @reboot sleep 60 && python /where/is/files/RUN.py >> /where/is/files/LOGS.txt 2>&1 &
+
+py dosyalarını çalıştırılabilir, txt dosyalarını yazılabilir yapın.
