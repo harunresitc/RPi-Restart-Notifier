@@ -19,6 +19,7 @@ File permissions:
 py files: executable
 txt files: writable
 
+
 Raspberry yeniden başladığında Rapberry' nin dış IP' sini size bildirir.
 
 Nasıl Kullanılır?
