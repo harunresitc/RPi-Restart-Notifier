@@ -30,7 +30,6 @@ def oldip():
     f.close()
     
 def newip():
-    #url = urllib.request
     site = urlopen('http://ipecho.net/plain')
     ip = site.read()
     ip = str(ip)
