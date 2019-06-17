@@ -1,2 +1,2 @@
-17.06.2019-03.45 -> Raspberry restarted! External IP: 78.162.5.163
-17.06.2019-03.45 -> Raspberry restarted! External IP: 78.162.5.163
+17.06.2019-03.45 -> Raspberry restarted! External IP: 78.123.5.222
+17.06.2019-03.45 -> Raspberry restarted! External IP: 78.123.5.222
