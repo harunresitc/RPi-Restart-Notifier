@@ -8,6 +8,9 @@ How to Use?
 1- Download files and place anywhere.
 
 2- Edit mySettings.py file.
+Turn on setting in sender Gmail at link below:
+https://myaccount.google.com/lesssecureapps
+
 
 3- Add cronjob with "sudo crontab -e"
 
@@ -27,6 +30,8 @@ Nasıl Kullanılır?
 1- Dosyaları indirin ve herhangi bir yere koyun.
 
 2- mySettings.py dosyasını düzenleyin.
+Gönderen Gmail adresi için aşağıdaki linkteki ayarı açın:
+https://myaccount.google.com/lesssecureapps
 
 3- Zamanlanmış görevlere "sudo crontab -e" komutu ile aşağıdaki satırı ekleyin:
 
