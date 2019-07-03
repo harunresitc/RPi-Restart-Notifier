@@ -12,7 +12,6 @@ recaddress = "to-who@mail.com"
 # Mail Subject
 mailsubject="Raspberry Warning"
 
-
 #Pushbullet settings
 pushbulletnot=1 # Pushbullet notification 1 or 0 1=yes, 0=no :P
 pbACCESS_TOKEN="PushbulletAccessToken"
