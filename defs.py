@@ -80,7 +80,7 @@ else:
     from urllib2 import urlopen, Request
     from urllib2 import URLError, HTTPError
 
-pbACCESS_TOKEN="o.ggr8aMEH60dGk8Brjr2PSra8Exz3tfMx"
+pbACCESS_TOKEN="your_token_is_here"
 pbMsgTitle="Raspberry Warning"
 
 def pushbullet(msg):
